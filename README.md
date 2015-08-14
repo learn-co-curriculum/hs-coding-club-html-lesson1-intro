@@ -6,6 +6,8 @@ Welcome to your very first coding club unit! By the end of this lesson, you'll b
 
 ##Some Things You Should Know
 
+The very first thing you should do after reading this intro is get familiar with Nitrous. Please read the lesson `Getting Set Up With Nitrous` before you do anything else!
+
 Every unit comes equipped with three things:
 
 1. A Lesson
