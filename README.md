@@ -2,7 +2,7 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/welcome.jpg" alt="welcome">
 
-Welcome to your very first coding club unit! By the end of this lesson, you'll be a master at HTML.
+Welcome to your very first code club unit! By the end of this lesson, you'll be a master at HTML.
 
 ##Some Things You Should Know
 
@@ -21,3 +21,4 @@ In this case, the lesson is `Hack Twitter With HTML`. This lesson has to main pa
 Once you finish the `Hack Twitter With HTML`, screen shot your fake tweet and share with **\#flatironcodeclub** and **\#twitterhack`.
 
 Finish `HTML Playground` and want to show off your site? Screenshot your site or the code and share with **\#htmlplayground**
+
