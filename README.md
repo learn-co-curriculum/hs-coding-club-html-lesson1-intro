@@ -1,4 +1,4 @@
-#Welcome!!
+#Welcome!
 
 <img src="https://s3.amazonaws.com/after-school-assets/welcome.jpg" alt="welcome">
 
