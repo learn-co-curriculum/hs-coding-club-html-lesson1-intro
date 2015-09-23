@@ -22,7 +22,7 @@ Every week includes three parts: comes equipped with several things:
 
 6. `How To: Open A Lab` - You will see this section repeated in every single week. This section will remind you how to open a lab in Nitrous, and start working. You can also refer back to this section if you forget how to get started.
 
-In this first week, the lesson is `Hack Twitter With HTML`. This lesson has two main parts: an activity and an explanation. The most important thing is that you get through the activity. The rest is bonus material to help you continue to learn at your own interest level and pace.
+In this first week, the lesson is `Hack Twitter With HTML`. This lesson has two main parts: an activity and an explanation.The most important thing is that you get through the activity. The rest is bonus material to help you continue to learn at your own interest level and pace.
 
 
 ## Share Share Share!
