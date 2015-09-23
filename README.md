@@ -8,7 +8,7 @@ Welcome to your very first code club unit! By the end of this lesson, you'll be 
 
 The very first thing you should do after reading this intro is get familiar with Nitrous. Please read the lesson `Getting Set Up With Nitrous` before you do anything else!
 
-Every unit comes equipped with several things:
+Every week includes three parts: comes equipped with several things:
 
 1. An Intro - Just like today, this will highlight the most important sections to get through, and provide information on things like the hashtags to use to share your work!
 
@@ -22,7 +22,7 @@ Every unit comes equipped with several things:
 
 6. `How To: Open A Lab` - You will see this section repeated in every single week. This section will remind you how to open a lab in Nitrous, and start working. You can also refer back to this section if you forget how to get started.
 
-In this case, the main lesson is `Hack Twitter With HTML`. This lesson has two main parts, an activity and explanation. The most important thing is that you get through the activity. The rest is bonus material to help you continue to learn at your own interest level and pace.
+In this first week, the lesson is `Hack Twitter With HTML`. This lesson has two main parts: an activity and an explanation. The most important thing is that you get through the activity. The rest is bonus material to help you continue to learn at your own interest level and pace.
 
 
 ## Share Share Share!
